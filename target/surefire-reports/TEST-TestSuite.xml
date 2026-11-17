@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="34.815" tests="10" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Workplaces\Java1\AlpacaTestingFramework\target\test-classes;C:\Workplaces\Java1\AlpacaTestingFramework\target\classes;C:\Users\shash\.m2\repository\io\rest-assured\rest-assured\6.2.0\rest-assured-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;C:\Users\shash\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpmime\4.5.14\httpmime-4.5.14.jar;C:\Users\shash\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\shash\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\shash\.m2\repository\io\rest-assured\xml-path\6.2.0\xml-path-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy-xml\5.0.8\groovy-xml-5.0.8.jar;C:\Users\shash\.m2\repository\io\rest-assured\json-path\6.2.0\json-path-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy-json\5.0.8\groovy-json-5.0.8.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy\5.0.8\groovy-5.0.8.jar;C:\Users\shash\.m2\repository\io\rest-assured\rest-assured-common\6.2.0\rest-assured-common-6.2.0.jar;C:\Users\shash\.m2\repository\org\json\json\20260814\json-20260814.jar;C:\Users\shash\.m2\repository\com\google\code\gson\gson\2.14.0\gson-2.14.0.jar;C:\Users\shash\.m2\repository\com\google\errorprone\error_prone_annotations\2.48.0\error_prone_annotations-2.48.0.jar;C:\Users\shash\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\shash\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\shash\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\shash\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar;C:\Users\shash\.m2\repository\io\rest-assured\json-schema-validator\6.2.0\json-schema-validator-6.2.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\shash\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\shash\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\shash\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\shash\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\shash\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\shash\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\shash\.m2\repository\com\networknt\json-schema-validator\2.0.8\json-schema-validator-2.0.8.jar;C:\Users\shash\.m2\repository\com\ethlo\time\itu\1.14.0\itu-1.14.0.jar;C:\Users\shash\.m2\repository\com\google\guava\guava\33.7.2-jre\guava-33.7.2-jre.jar;C:\Users\shash\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\shash\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\shash\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\shash\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\shash\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\shash\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\shash\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\shash\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\shash\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\shash\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\shash\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\shash\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\shash\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi-ooxml\6.0.0\poi-ooxml-6.0.0.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi-ooxml-lite\6.0.0\poi-ooxml-lite-6.0.0.jar;C:\Users\shash\.m2\repository\org\apache\xmlbeans\xmlbeans\5.4.1\xmlbeans-5.4.1.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\shash\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\shash\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-collections4\4.6.0\commons-collections4-4.6.0.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi\6.0.0\poi-6.0.0.jar;C:\Users\shash\.m2\repository\commons-codec\commons-codec\1.23.0\commons-codec-1.23.0.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\shash\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\shash\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;C:\Users\shash\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.2\log4j-core-2.17.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\shash\AppData\Local\Temp\surefire13789480789688126753\surefirebooter-20261117172458851_3.jar C:\Users\shash\AppData\Local\Temp\surefire13789480789688126753 2026-11-17T17-24-58_331-jvmRun1 surefire-20261117172458851_1tmp surefire_0-20261117172458851_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Workplaces\Java1\AlpacaTestingFramework\target\test-classes;C:\Workplaces\Java1\AlpacaTestingFramework\target\classes;C:\Users\shash\.m2\repository\io\rest-assured\rest-assured\6.2.0\rest-assured-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;C:\Users\shash\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\shash\.m2\repository\org\apache\httpcomponents\httpmime\4.5.14\httpmime-4.5.14.jar;C:\Users\shash\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\shash\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\shash\.m2\repository\io\rest-assured\xml-path\6.2.0\xml-path-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy-xml\5.0.8\groovy-xml-5.0.8.jar;C:\Users\shash\.m2\repository\io\rest-assured\json-path\6.2.0\json-path-6.2.0.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy-json\5.0.8\groovy-json-5.0.8.jar;C:\Users\shash\.m2\repository\org\apache\groovy\groovy\5.0.8\groovy-5.0.8.jar;C:\Users\shash\.m2\repository\io\rest-assured\rest-assured-common\6.2.0\rest-assured-common-6.2.0.jar;C:\Users\shash\.m2\repository\org\json\json\20260814\json-20260814.jar;C:\Users\shash\.m2\repository\com\google\code\gson\gson\2.14.0\gson-2.14.0.jar;C:\Users\shash\.m2\repository\com\google\errorprone\error_prone_annotations\2.48.0\error_prone_annotations-2.48.0.jar;C:\Users\shash\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\shash\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\shash\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\shash\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\shash\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar;C:\Users\shash\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar;C:\Users\shash\.m2\repository\io\rest-assured\json-schema-validator\6.2.0\json-schema-validator-6.2.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\shash\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\shash\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\shash\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\shash\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\shash\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\shash\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\shash\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\shash\.m2\repository\com\networknt\json-schema-validator\2.0.8\json-schema-validator-2.0.8.jar;C:\Users\shash\.m2\repository\com\ethlo\time\itu\1.14.0\itu-1.14.0.jar;C:\Users\shash\.m2\repository\com\google\guava\guava\33.7.2-jre\guava-33.7.2-jre.jar;C:\Users\shash\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\shash\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\shash\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\shash\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\shash\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\shash\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\shash\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\shash\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\shash\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\shash\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\shash\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\shash\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\shash\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi-ooxml\6.0.0\poi-ooxml-6.0.0.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi-ooxml-lite\6.0.0\poi-ooxml-lite-6.0.0.jar;C:\Users\shash\.m2\repository\org\apache\xmlbeans\xmlbeans\5.4.1\xmlbeans-5.4.1.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\shash\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\shash\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-collections4\4.6.0\commons-collections4-4.6.0.jar;C:\Users\shash\.m2\repository\org\apache\poi\poi\6.0.0\poi-6.0.0.jar;C:\Users\shash\.m2\repository\commons-codec\commons-codec\1.23.0\commons-codec-1.23.0.jar;C:\Users\shash\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\shash\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\shash\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;C:\Users\shash\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.2\log4j-core-2.17.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\shash"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-07-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Workplaces\Java1\AlpacaTestingFramework"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\shash\AppData\Local\Temp\surefire13789480789688126753\surefirebooter-20261117172458851_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.8+12-LTS-250"/>
+    <property name="user.name" value="shash"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\shash\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\shash\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.8"/>
+    <property name="user.dir" value="C:\Workplaces\Java1\AlpacaTestingFramework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\shash\OneDrive\Desktop\Exams\TOSCA\ToscaCommander;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-23\bin;C:\Program Files\dotnet\;C:\apache-maven-3.10.1\bin;C:\Users\shash\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\shash\AppData\Local\Programs\Python\Python314\;C:\Users\shash\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\shash\AppData\Local\Programs\Python\Python313\;C:\Users\shash\AppData\Local\Programs\Python\Launcher\;C:\Users\shash\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2025.2.0.1\bin;C:\Program Files\apache-maven-3.9.11\bin;C:\Program Files\Java\jdk-21\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.8+12-LTS-250"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testSubmitOrder[AAPL, 1, buy, limit, day, 12](1)" classname="api.test.AlpacaNewOrderTestDDT" time="6.171">
+    <system-out><![CDATA[2026-11-17 17:25:05 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:08 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 836
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916508
+X-Request-Id: 0f36039d7d4748c987ab4fcb7f73beef
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "d10d6aa0-03db-4ba3-8afd-fc45fe22db0b",
+    "client_order_id": "QA-AAPL-98ff23c7",
+    "created_at": "2026-11-17T11:55:08.639419098Z",
+    "updated_at": "2026-11-17T11:55:08.640868091Z",
+    "submitted_at": "2026-11-17T11:55:08.639419098Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "12",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:09 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:11 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 828
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916512
+X-Request-Id: e354dc99bf6f8f2d949bf0a7e0df7617
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "d10d6aa0-03db-4ba3-8afd-fc45fe22db0b",
+    "client_order_id": "QA-AAPL-98ff23c7",
+    "created_at": "2026-11-17T11:55:08.639419098Z",
+    "updated_at": "2026-11-17T11:55:08.646702934Z",
+    "submitted_at": "2026-11-17T11:55:08.645338163Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "12",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:11 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="testSubmitOrder[MSFT, 1, buy, limit, day, 15](2)" classname="api.test.AlpacaNewOrderTestDDT" time="1.909">
+    <system-out><![CDATA[2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:12 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 836
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916513
+X-Request-Id: 47e2059ebb626ab9004dd5f4cea51f1d
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "173ff015-1d00-47bd-8bf6-f23c4f91f16d",
+    "client_order_id": "QA-MSFT-f206158b",
+    "created_at": "2026-11-17T11:55:12.905025563Z",
+    "updated_at": "2026-11-17T11:55:12.906676069Z",
+    "submitted_at": "2026-11-17T11:55:12.905025563Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+    "symbol": "MSFT",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "15",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:13 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 827
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916514
+X-Request-Id: ea6640e9825e8881827c6f904e46a4af
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "173ff015-1d00-47bd-8bf6-f23c4f91f16d",
+    "client_order_id": "QA-MSFT-f206158b",
+    "created_at": "2026-11-17T11:55:12.905025563Z",
+    "updated_at": "2026-11-17T11:55:12.91186991Z",
+    "submitted_at": "2026-11-17T11:55:12.910824325Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+    "symbol": "MSFT",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "15",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+]]></system-out>
+  </testcase>
+  <testcase name="testSubmitOrder[TSLA, 1, buy, limit, gtc, 18](3)" classname="api.test.AlpacaNewOrderTestDDT" time="1.934">
+    <system-out><![CDATA[2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:14 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 836
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916515
+X-Request-Id: 364b7d60db1ba602a7f4885a5882bd16
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "9b2d8d00-00d9-4e7d-b3f1-570851095173",
+    "client_order_id": "QA-TSLA-b190f5f1",
+    "created_at": "2026-11-17T11:55:14.843713782Z",
+    "updated_at": "2026-11-17T11:55:14.845066932Z",
+    "submitted_at": "2026-11-17T11:55:14.843713782Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "8ccae427-5dd0-45b3-b5fe-7ba5e422c766",
+    "symbol": "TSLA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "gtc",
+    "limit_price": "18",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2027-02-12T21:00:00Z"
+}
+2026-11-17 17:25:14 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:15 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 828
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916516
+X-Request-Id: 777ac4b7e4e797925315281596aaccc0
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "9b2d8d00-00d9-4e7d-b3f1-570851095173",
+    "client_order_id": "QA-TSLA-b190f5f1",
+    "created_at": "2026-11-17T11:55:14.843713782Z",
+    "updated_at": "2026-11-17T11:55:14.850730798Z",
+    "submitted_at": "2026-11-17T11:55:14.849522605Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "8ccae427-5dd0-45b3-b5fe-7ba5e422c766",
+    "symbol": "TSLA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "gtc",
+    "limit_price": "18",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2027-02-12T21:00:00Z"
+}
+2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+]]></system-out>
+  </testcase>
+  <testcase name="testSubmitOrder[NVDA, 1, buy, limit, day, 20](4)" classname="api.test.AlpacaNewOrderTestDDT" time="1.957">
+    <system-out><![CDATA[2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:16 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 836
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916517
+X-Request-Id: ee068087a47f5e3c1c79b4ab3b57e567
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "a63b4b58-43b9-4dca-a00d-6875e2fe2726",
+    "client_order_id": "QA-NVDA-e7a482e2",
+    "created_at": "2026-11-17T11:55:16.816936633Z",
+    "updated_at": "2026-11-17T11:55:16.818323123Z",
+    "submitted_at": "2026-11-17T11:55:16.816936633Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+    "symbol": "NVDA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "20",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:16 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:17 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 828
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916518
+X-Request-Id: cf092f453c02af0f1bac7dec8623a296
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "a63b4b58-43b9-4dca-a00d-6875e2fe2726",
+    "client_order_id": "QA-NVDA-e7a482e2",
+    "created_at": "2026-11-17T11:55:16.816936633Z",
+    "updated_at": "2026-11-17T11:55:16.823539367Z",
+    "submitted_at": "2026-11-17T11:55:16.822414252Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+    "symbol": "NVDA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "20",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:17 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:17 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+]]></system-out>
+  </testcase>
+  <testcase name="testReplaceOrder[MSFT, 1, buy, limit, day, 15](1)" classname="api.test.AlpacaReplaceOrderTestDDT" time="4.71">
+    <failure message="Order replacement Failed expected [200] but found [422]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Order replacement Failed expected [200] but found [422]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1395)
+	at api.test.AlpacaReplaceOrderTestDDT.testReplaceOrder(AlpacaReplaceOrderTestDDT.java:89)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[2026-11-17 17:25:18 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:21 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 851
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916521
+X-Request-Id: 7ca6c085a07bdac44a55fddb36e88cd7
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "a2acd73c-5a98-4458-8838-bc5c69c9b5e5",
+    "client_order_id": "QA-MSFT-REPLACE-CREATE-1463a735",
+    "created_at": "2026-11-17T11:55:21.011581185Z",
+    "updated_at": "2026-11-17T11:55:21.013099092Z",
+    "submitted_at": "2026-11-17T11:55:21.011581185Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+    "symbol": "MSFT",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "15",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:21 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916522
+X-Request-Id: f04bc4bf40dbf4558a1487cc60c7275e
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "a2acd73c-5a98-4458-8838-bc5c69c9b5e5",
+    "client_order_id": "QA-MSFT-REPLACE-CREATE-1463a735",
+    "created_at": "2026-11-17T11:55:21.011581185Z",
+    "updated_at": "2026-11-17T11:55:21.018114896Z",
+    "submitted_at": "2026-11-17T11:55:21.017070391Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+    "symbol": "MSFT",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "15",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:21 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: new
+HTTP/1.1 422 Unprocessable Entity
+Date: Tue, 17 Nov 2026 11:55:22 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 62
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916523
+X-Request-Id: 24a5f0f6746bcf1937f634a982681d6c
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "code": 42210000,
+    "message": "order parameters are not changed"
+}
+2026-11-17 17:25:22 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Order replacement response status: 422
+]]></system-out>
+  </testcase>
+  <testcase name="testReplaceOrder[AAPL, 1, buy, limit, day, 12](2)" classname="api.test.AlpacaReplaceOrderTestDDT" time="2.796">
+    <failure message="Order replacement Failed expected [200] but found [422]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Order replacement Failed expected [200] but found [422]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1395)
+	at api.test.AlpacaReplaceOrderTestDDT.testReplaceOrder(AlpacaReplaceOrderTestDDT.java:89)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[2026-11-17 17:25:23 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:23 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 851
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916524
+X-Request-Id: c1591b03bc635b69efa33cdbb52ac3c7
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "3e2efcb8-b55d-432f-afda-4d7da0b3fe0a",
+    "client_order_id": "QA-AAPL-REPLACE-CREATE-f5359e72",
+    "created_at": "2026-11-17T11:55:23.934362672Z",
+    "updated_at": "2026-11-17T11:55:23.936362903Z",
+    "submitted_at": "2026-11-17T11:55:23.934362672Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "12",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:24 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916525
+X-Request-Id: 7f3c656c06fe96a8b1f06e2e990113c8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "3e2efcb8-b55d-432f-afda-4d7da0b3fe0a",
+    "client_order_id": "QA-AAPL-REPLACE-CREATE-f5359e72",
+    "created_at": "2026-11-17T11:55:23.934362672Z",
+    "updated_at": "2026-11-17T11:55:23.941842232Z",
+    "submitted_at": "2026-11-17T11:55:23.940607565Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "12",
+    "stop_price": null,
+    "status": "new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:25 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: new
+HTTP/1.1 422 Unprocessable Entity
+Date: Tue, 17 Nov 2026 11:55:25 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 62
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916526
+X-Request-Id: fe81d1bc636f79cd68dea4bfd0060e13
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "code": 42210000,
+    "message": "order parameters are not changed"
+}
+2026-11-17 17:25:25 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Order replacement response status: 422
+]]></system-out>
+  </testcase>
+  <testcase name="testCancelOrder[AAPL, 1, buy, limit, day, 12](1)" classname="api.test.AlpacaCancelOrderTestDDT" time="1.892">
+    <system-out><![CDATA[2026-11-17 17:25:26 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:27 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916527
+X-Request-Id: f4de591489383c2440a44d7521df0efd
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "f789f806-d40c-43bc-a578-e672c83ec50b",
+    "client_order_id": "QA-AAPL-CANCEL-d24e8885",
+    "created_at": "2026-11-17T11:55:27.421854469Z",
+    "updated_at": "2026-11-17T11:55:27.423325937Z",
+    "submitted_at": "2026-11-17T11:55:27.421854469Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "12",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:27 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+HTTP/1.1 204 No Content
+Date: Tue, 17 Nov 2026 11:55:28 GMT
+Content-Type: application/json; charset=UTF-8
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916528
+X-Request-Id: fad7a9a42c907e24f2cb0a87a6fd2068
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+]]></system-out>
+  </testcase>
+  <testcase name="testCancelOrder[MSFT, 1, buy, limit, day, 15](2)" classname="api.test.AlpacaCancelOrderTestDDT" time="1.742">
+    <system-out><![CDATA[2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:29 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916529
+X-Request-Id: 0fbc41d52017976651c9bb9873f17e28
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "e43b7a1f-522b-4cd6-9192-1996d16f1c26",
+    "client_order_id": "QA-MSFT-CANCEL-a5c6633a",
+    "created_at": "2026-11-17T11:55:29.171707434Z",
+    "updated_at": "2026-11-17T11:55:29.173120293Z",
+    "submitted_at": "2026-11-17T11:55:29.171707434Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+    "symbol": "MSFT",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "15",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:29 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+HTTP/1.1 204 No Content
+Date: Tue, 17 Nov 2026 11:55:30 GMT
+Content-Type: application/json; charset=UTF-8
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916530
+X-Request-Id: adaa2dae3d04f21a6acf2c70ef8fb229
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+]]></system-out>
+  </testcase>
+  <testcase name="testCancelOrder[TSLA, 1, buy, limit, gtc, 18](3)" classname="api.test.AlpacaCancelOrderTestDDT" time="1.809">
+    <system-out><![CDATA[2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:30 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916531
+X-Request-Id: 51d150544752fa9628e852088310ea06
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "4ed6bf46-4b9a-496f-96a3-229993cf7554",
+    "client_order_id": "QA-TSLA-CANCEL-9599ab79",
+    "created_at": "2026-11-17T11:55:30.943685866Z",
+    "updated_at": "2026-11-17T11:55:30.945109702Z",
+    "submitted_at": "2026-11-17T11:55:30.943685866Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "8ccae427-5dd0-45b3-b5fe-7ba5e422c766",
+    "symbol": "TSLA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "gtc",
+    "limit_price": "18",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2027-02-12T21:00:00Z"
+}
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+HTTP/1.1 204 No Content
+Date: Tue, 17 Nov 2026 11:55:31 GMT
+Content-Type: application/json; charset=UTF-8
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916532
+X-Request-Id: a00235221108a8717be4d67db6644cbb
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+]]></system-out>
+  </testcase>
+  <testcase name="testCancelOrder[NVDA, 1, buy, limit, day, 20](4)" classname="api.test.AlpacaCancelOrderTestDDT" time="1.726">
+    <system-out><![CDATA[2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2026 11:55:32 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 843
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916533
+X-Request-Id: fdc309d81c2884d6a3b4a77b854d36e4
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+
+{
+    "id": "da6e81d0-4615-4d38-8063-08298ff86ff2",
+    "client_order_id": "QA-NVDA-CANCEL-2378615e",
+    "created_at": "2026-11-17T11:55:32.862286183Z",
+    "updated_at": "2026-11-17T11:55:32.863668877Z",
+    "submitted_at": "2026-11-17T11:55:32.862286183Z",
+    "filled_at": null,
+    "expired_at": null,
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+    "symbol": "NVDA",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "",
+    "order_type": "limit",
+    "type": "limit",
+    "side": "buy",
+    "position_intent": "buy_to_open",
+    "time_in_force": "day",
+    "limit_price": "20",
+    "stop_price": null,
+    "status": "pending_new",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "subtag": null,
+    "source": null,
+    "expires_at": "2026-11-17T21:00:00Z"
+}
+2026-11-17 17:25:32 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+HTTP/1.1 204 No Content
+Date: Tue, 17 Nov 2026 11:55:33 GMT
+Content-Type: application/json; charset=UTF-8
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Vary: Origin
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 1794916533
+X-Request-Id: 873dc1fc8749848895157157a1d390d0
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, DELETE, POST, PATCH
+Access-Control-Allow-Headers: Apca-Api-Key-Id, Apca-Api-Secret-Key, Authorization, Content-Type, X-Correspondent
+Access-Control-Max-Age: 1728000
+2026-11-17 17:25:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+]]></system-out>
+  </testcase>
+</testsuite>

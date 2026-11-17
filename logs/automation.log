@@ -1,0 +1,719 @@
+2026-11-16 18:04:37 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 18:04:37 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-109dc2de
+2026-11-16 18:04:40 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 18:04:43 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 18:04:43 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 18:04:43 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 18:04:43 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-aa508c1b
+2026-11-16 18:04:44 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 18:04:45 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 18:04:45 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 18:04:45 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 18:04:45 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-0f185652
+2026-11-16 18:04:45 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 18:04:46 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 18:04:46 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 18:04:46 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 18:04:46 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-10c918e9
+2026-11-16 18:04:47 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 18:04:48 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 18:04:48 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:27:08 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 19:27:08 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-f4c92f38
+2026-11-16 19:27:11 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:27:14 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:27:14 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:27:14 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 19:27:14 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-b22bd45c
+2026-11-16 19:27:15 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:27:15 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:27:15 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:27:15 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 19:27:15 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-6ffb8c66
+2026-11-16 19:27:16 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:27:17 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:27:17 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:27:17 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 19:27:17 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-7e8c076c
+2026-11-16 19:27:18 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:27:19 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:27:19 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:47:16 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 19:47:16 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-8c4abe06
+2026-11-16 19:47:18 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:47:21 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:47:21 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:47:21 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 19:47:21 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-ffa47651
+2026-11-16 19:47:21 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:47:22 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:47:22 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:47:22 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 19:47:22 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-f1333556
+2026-11-16 19:47:23 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:47:24 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:47:24 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:47:24 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 19:47:24 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-c5a40a72
+2026-11-16 19:47:25 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:47:25 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:47:25 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:51:15 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 19:51:15 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-1f9fe287
+2026-11-16 19:51:18 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:51:20 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:51:20 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:51:20 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 19:51:20 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-77ea92e1
+2026-11-16 19:51:21 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:51:22 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:51:22 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:51:22 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 19:51:22 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-a1a83412
+2026-11-16 19:51:22 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:51:23 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:51:23 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:51:23 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 19:51:23 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-00ffc5b7
+2026-11-16 19:51:24 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:51:25 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:51:25 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:55:41 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 19:55:41 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-1cdb4715
+2026-11-16 19:55:43 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:55:45 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:55:45 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:55:45 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 19:55:45 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-d9d9f281
+2026-11-16 19:55:46 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:55:47 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:55:47 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:55:47 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 19:55:47 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-c563e00c
+2026-11-16 19:55:48 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:55:49 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:55:49 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 19:55:49 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 19:55:49 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-7e1f5df8
+2026-11-16 19:55:49 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 19:55:50 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 19:55:50 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:18:23 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 21:18:23 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-db1729d9
+2026-11-16 21:18:26 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:18:28 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:18:28 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 21:18:28 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 21:18:28 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-9179a122
+2026-11-16 21:18:29 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:18:30 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:18:30 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:18:30 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 21:18:30 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-0640a311
+2026-11-16 21:18:30 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:18:31 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:18:31 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:18:31 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 21:18:31 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-25523969
+2026-11-16 21:18:32 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:18:33 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:18:33 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:19:53 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 21:19:53 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-62fb2391
+2026-11-16 21:19:56 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:19:59 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:19:59 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 21:19:59 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 21:19:59 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-eed63f32
+2026-11-16 21:20:00 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:20:01 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:20:01 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:20:01 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 21:20:01 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-1cdc232a
+2026-11-16 21:20:02 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:20:03 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:20:03 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:20:03 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 21:20:03 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-329bde60
+2026-11-16 21:20:03 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:20:04 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:20:04 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:27:30 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 21:27:30 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-c440be6b
+2026-11-16 21:27:33 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:27:35 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:27:35 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 21:27:35 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 21:27:35 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-57e20588
+2026-11-16 21:27:36 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:27:37 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:27:37 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:27:37 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 21:27:37 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-4986f17b
+2026-11-16 21:27:57 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 21:27:57 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-99352904
+2026-11-16 21:28:22 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 21:28:22 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-440315e2
+2026-11-16 21:28:24 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:28:26 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:28:26 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 21:28:27 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 21:28:27 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-0554f4a9
+2026-11-16 21:28:27 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:28:28 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:28:28 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:28:28 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 21:28:28 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-2c94f3ec
+2026-11-16 21:28:29 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:28:30 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:28:30 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 21:28:30 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 21:28:30 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-efc9b614
+2026-11-16 21:28:31 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 21:28:31 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 21:28:31 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:05:16 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 22:05:16 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-3c068bd8
+2026-11-16 22:05:21 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:05:24 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:05:24 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 22:05:24 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 22:05:24 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-252d0385
+2026-11-16 22:05:25 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:05:26 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:05:26 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:05:26 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 22:05:26 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-485ab8f7
+2026-11-16 22:05:27 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:05:28 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:05:28 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:05:28 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 22:05:28 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-00230e7f
+2026-11-16 22:05:29 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:05:29 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:05:29 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:14:41 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 22:14:41 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-AAPL-4318ba18
+2026-11-16 22:14:44 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:14:46 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:14:46 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 22:14:47 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 22:14:47 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-MSFT-652025d8
+2026-11-16 22:14:47 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:14:48 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:14:48 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:14:48 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 22:14:48 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-TSLA-6675ff5c
+2026-11-16 22:14:49 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:14:50 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:14:50 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:14:50 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 22:14:50 INFO  api.test.AlpacaOrderTestDDT - *****Generated client order id: QA-NVDA-5dd8dc75
+2026-11-16 22:14:51 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:14:51 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:14:51 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 22:14:53 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: filled
+2026-11-16 22:14:53 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: filled
+2026-11-16 22:25:17 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-16 22:25:21 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:25:23 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:25:23 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: partially_filled
+2026-11-16 22:25:23 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-16 22:25:24 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:25:25 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:25:25 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:25:25 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-16 22:25:26 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:25:26 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:25:26 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: new
+2026-11-16 22:25:26 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-16 22:25:27 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-16 22:25:28 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-16 22:25:28 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: filled
+2026-11-16 22:25:29 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=10, side=buy, type=limit, tif=day, limitPrice=550
+2026-11-16 22:25:31 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: partially_filled
+2026-11-16 22:25:31 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=TSLA, qty=20, side=sell, type=limit, tif=gtc, limitPrice=850
+2026-11-16 22:25:33 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: new
+2026-11-16 22:25:34 INFO  api.test.AlpacaOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 11:40:29 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 11:40:32 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:40:35 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:40:35 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:40:35 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 11:40:35 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:40:36 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:40:36 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:40:36 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 11:40:37 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:40:38 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:40:38 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:40:38 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 11:40:39 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:40:40 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:40:40 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:40:40 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=10, side=buy, type=limit, tif=day, limitPrice=550
+2026-11-17 11:40:42 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: accepted
+2026-11-17 11:40:42 INFO  api.test.AlpacaOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 11:40:42 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=TSLA, qty=20, side=sell, type=limit, tif=gtc, limitPrice=850
+2026-11-17 11:40:44 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: accepted
+2026-11-17 11:40:45 INFO  api.test.AlpacaOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 11:52:15 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 11:52:18 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:52:20 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:52:20 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:52:20 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 11:52:21 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:52:22 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:52:22 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:52:22 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 11:52:23 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:52:23 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:52:23 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:52:23 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 11:52:24 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:52:25 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:52:25 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:52:25 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=10, side=buy, type=limit, tif=day, limitPrice=550
+2026-11-17 11:52:27 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: accepted
+2026-11-17 11:52:28 INFO  api.test.AlpacaOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 11:52:28 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=TSLA, qty=20, side=sell, type=limit, tif=gtc, limitPrice=850
+2026-11-17 11:52:29 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement: accepted
+2026-11-17 11:52:30 INFO  api.test.AlpacaOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 11:59:05 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 11:59:08 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:59:10 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:59:10 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:59:10 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 11:59:11 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:59:12 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:59:12 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:59:12 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 11:59:13 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:59:13 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:59:13 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:59:13 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 11:59:14 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 11:59:15 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 11:59:15 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 11:59:15 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=10, side=buy, type=limit, tif=day, limitPrice=550
+2026-11-17 11:59:17 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 11:59:17 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:20 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 11:59:20 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:22 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 3: accepted
+2026-11-17 11:59:22 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:25 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 4: accepted
+2026-11-17 11:59:25 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:27 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 5: accepted
+2026-11-17 11:59:27 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:30 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 6: accepted
+2026-11-17 11:59:30 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:33 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 7: accepted
+2026-11-17 11:59:33 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:35 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 8: accepted
+2026-11-17 11:59:35 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 11:59:36 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=TSLA, qty=20, side=sell, type=limit, tif=gtc, limitPrice=850
+2026-11-17 11:59:38 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 11:59:38 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:11:20 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 12:11:24 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:11:27 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:11:27 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:11:27 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 12:11:28 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:11:29 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:11:29 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:11:29 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 12:11:30 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:11:31 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:11:31 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:11:31 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 12:11:31 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:11:32 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:11:32 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:11:33 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=10, side=buy, type=limit, tif=day, limitPrice=550
+2026-11-17 12:11:35 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:11:35 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:11:37 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"1045.17","code":40310000,"cost_basis":"5500.01","message":"insufficient buying power"}
+2026-11-17 12:11:37 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=TSLA, qty=20, side=sell, type=limit, tif=gtc, limitPrice=850
+2026-11-17 12:11:38 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"1045.17","code":40310000,"cost_basis":"17000.01","message":"insufficient buying power"}
+2026-11-17 12:13:46 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 12:13:49 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:13:49 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 12:13:50 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:13:53 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:13:53 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:13:53 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 12:13:53 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:13:53 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 12:13:54 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:13:55 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:13:55 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:13:55 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=330
+2026-11-17 12:13:56 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"189.46","code":40310000,"cost_basis":"330.01","message":"insufficient buying power"}
+2026-11-17 12:13:56 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=180
+2026-11-17 12:13:58 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:13:58 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:14:01 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"9.45","code":40310000,"cost_basis":"180.01","message":"insufficient buying power"}
+2026-11-17 12:16:36 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 5, side: buy, type: market
+2026-11-17 12:16:39 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:16:39 WARN  api.test.AlpacaOrderTestDDT - Skipping order submission due to API/account constraints: {"buying_power":"9.19","code":40310000,"cost_basis":"1768.51","message":"insufficient buying power"}
+2026-11-17 12:16:39 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 2, side: buy, type: limit
+2026-11-17 12:16:40 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:16:40 WARN  api.test.AlpacaOrderTestDDT - Skipping order submission due to API/account constraints: {"buying_power":"9.19","code":40310000,"cost_basis":"700.01","message":"insufficient buying power"}
+2026-11-17 12:16:40 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 3, side: sell, type: limit
+2026-11-17 12:16:41 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:16:41 WARN  api.test.AlpacaOrderTestDDT - Skipping order submission due to API/account constraints: {"buying_power":"9.19","code":40310000,"cost_basis":"1350.01","message":"insufficient buying power"}
+2026-11-17 12:16:41 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: market
+2026-11-17 12:16:42 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:16:42 WARN  api.test.AlpacaOrderTestDDT - Skipping order submission due to API/account constraints: {"buying_power":"9.19","code":40310000,"cost_basis":"155.6","message":"insufficient buying power"}
+2026-11-17 12:16:42 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=330
+2026-11-17 12:16:43 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"9.19","code":40310000,"cost_basis":"330.01","message":"insufficient buying power"}
+2026-11-17 12:16:43 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=180
+2026-11-17 12:16:44 WARN  api.test.AlpacaOrderTestDDT - Replacement-order creation failed with status 403. Message: {"buying_power":"9.19","code":40310000,"cost_basis":"180.01","message":"insufficient buying power"}
+2026-11-17 12:23:25 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:23:28 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:23:31 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:23:31 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:23:31 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:23:32 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:23:33 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:23:33 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:23:33 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:23:34 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:23:34 WARN  api.test.AlpacaOrderTestDDT - Skipping order submission due to API/account constraints: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:23:34 INFO  api.test.AlpacaOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:23:35 INFO  api.test.AlpacaOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:23:35 INFO  api.test.AlpacaOrderTestDDT - *****Order status response: 200
+2026-11-17 12:23:35 INFO  api.test.AlpacaOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:23:36 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:23:37 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:23:37 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:41 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:23:41 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:44 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 3: accepted
+2026-11-17 12:23:44 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:48 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 4: accepted
+2026-11-17 12:23:48 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:52 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 5: accepted
+2026-11-17 12:23:52 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:55 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 6: accepted
+2026-11-17 12:23:55 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:23:59 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 7: accepted
+2026-11-17 12:23:59 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:02 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 8: accepted
+2026-11-17 12:24:02 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:06 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 9: accepted
+2026-11-17 12:24:06 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:09 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 10: accepted
+2026-11-17 12:24:09 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:13 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 11: accepted
+2026-11-17 12:24:13 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:16 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 12: accepted
+2026-11-17 12:24:16 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:18 INFO  api.test.AlpacaOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:24:20 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:24:20 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:23 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:24:23 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:27 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 3: accepted
+2026-11-17 12:24:27 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:31 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 4: accepted
+2026-11-17 12:24:31 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:34 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 5: accepted
+2026-11-17 12:24:34 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:38 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 6: accepted
+2026-11-17 12:24:38 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:41 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 7: accepted
+2026-11-17 12:24:41 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:45 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 8: accepted
+2026-11-17 12:24:45 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:48 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 9: accepted
+2026-11-17 12:24:48 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:52 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 10: accepted
+2026-11-17 12:24:52 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:55 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 11: accepted
+2026-11-17 12:24:55 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:24:59 INFO  api.test.AlpacaOrderTestDDT - *****Current order status before replacement attempt 12: accepted
+2026-11-17 12:24:59 WARN  api.test.AlpacaOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:44:10 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:44:11 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:44:13 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:44:13 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:44:13 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:44:14 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:44:14 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:44:15 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 403
+2026-11-17 12:44:15 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:44:15 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:44:16 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:44:17 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:46:20 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:46:23 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:46:23 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:46:23 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:46:24 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:46:26 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:46:26 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:46:26 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:46:27 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:46:27 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:46:27 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:46:28 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:46:28 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:46:28 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:46:29 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:46:30 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:46:30 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:46:34 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: null
+2026-11-17 12:46:34 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=null). Retrying order creation for replacement...
+2026-11-17 12:46:36 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:46:37 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:46:37 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:46:40 WARN  api.test.AlpacaReplaceOrderTestDDT - Replacement-order creation failed with status 401. Message: {"message": "unauthorized."}
+
+2026-11-17 12:46:41 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:46:42 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:46:42 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:46:42 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:46:43 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:46:44 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:46:44 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:46:45 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:46:45 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:46:45 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:46:45 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:46:46 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:50:43 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:50:45 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:50:45 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:50:45 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:50:46 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:50:46 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:50:46 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:50:47 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:50:47 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:50:47 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:50:48 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:50:48 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:50:48 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:50:49 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:50:49 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:50:49 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:50:50 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:50:50 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:50:50 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:50:51 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:50:51 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:50:51 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:50:51 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:50:51 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:50:52 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:50:53 WARN  api.test.AlpacaReplaceOrderTestDDT - Replacement-order creation failed with status 401. Message: {"message": "unauthorized."}
+
+2026-11-17 12:50:53 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:50:53 WARN  api.test.AlpacaReplaceOrderTestDDT - Replacement-order creation failed with status 401. Message: {"message": "unauthorized."}
+
+2026-11-17 12:52:59 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:53:02 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:53:02 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:53:02 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:53:03 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:53:03 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:53:03 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:53:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:53:04 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:53:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:53:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 401
+2026-11-17 12:53:04 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"message": "unauthorized."}
+
+2026-11-17 12:53:05 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:53:06 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:53:06 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:53:06 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:53:07 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:53:07 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:53:07 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:53:07 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:53:08 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:53:08 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:53:08 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 401
+2026-11-17 12:53:08 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"message": "unauthorized."}
+
+2026-11-17 12:53:09 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:53:09 WARN  api.test.AlpacaReplaceOrderTestDDT - Replacement-order creation failed with status 401. Message: {"message": "unauthorized."}
+
+2026-11-17 12:53:09 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:53:10 WARN  api.test.AlpacaReplaceOrderTestDDT - Replacement-order creation failed with status 401. Message: {"message": "unauthorized."}
+
+2026-11-17 12:55:21 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:55:24 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:55:26 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:55:26 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:55:27 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:55:27 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:55:27 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:55:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 403
+2026-11-17 12:55:28 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:55:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:55:29 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:55:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:55:30 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:55:31 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:55:32 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:55:32 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:55:32 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:55:33 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:55:34 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:55:34 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:55:34 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:55:34 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:55:34 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:55:34 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:55:35 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:55:36 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:55:36 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:55:36 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:55:38 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:55:38 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:55:41 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:55:41 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:55:43 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:55:45 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:55:45 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:55:48 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:55:48 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:58:01 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 12:58:06 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:58:09 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:58:09 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:58:09 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 12:58:10 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:58:11 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:58:11 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:58:11 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 12:58:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 403
+2026-11-17 12:58:12 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:58:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 12:58:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 12:58:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 12:58:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 12:58:14 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:58:16 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:58:16 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:58:19 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:58:19 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:58:21 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:58:23 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 12:58:23 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:58:27 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 12:58:27 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 12:58:29 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 12:58:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:58:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:58:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 12:58:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 12:58:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:58:32 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:58:32 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 12:58:32 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 12:58:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 403
+2026-11-17 12:58:33 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 12:58:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 12:58:34 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 12:58:35 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 12:58:35 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 13:57:35 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 13:57:38 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 13:57:41 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 13:57:41 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 13:57:41 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 13:57:42 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 13:57:42 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 13:57:43 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 13:57:43 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 13:57:43 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 403
+2026-11-17 13:57:43 WARN  api.test.AlpacaNewOrderTestDDT - Skipping order submission due to API/account constraints: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 13:57:43 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 13:57:44 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 13:57:45 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 13:57:45 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: accepted
+2026-11-17 13:57:46 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 13:57:47 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 13:57:47 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 13:57:51 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 13:57:51 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 13:57:53 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 13:57:55 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: accepted
+2026-11-17 13:57:55 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 13:57:58 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 2: accepted
+2026-11-17 13:57:58 WARN  api.test.AlpacaReplaceOrderTestDDT - Order is not replaceable yet (status=accepted). Retrying order creation for replacement...
+2026-11-17 13:58:01 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 13:58:02 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 13:58:03 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 13:58:03 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 13:58:03 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 13:58:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 13:58:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 13:58:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 13:58:04 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 13:58:05 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 403
+2026-11-17 13:58:05 WARN  api.test.AlpacaCancelOrderTestDDT - Skipping cancel test because order creation failed: {"code":40310000,"message":"cannot open a long buy while a short sell order is open"}
+2026-11-17 13:58:05 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 13:58:06 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 13:58:07 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 13:58:07 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 17:25:05 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: AAPL, qty: 1, side: buy, type: limit
+2026-11-17 17:25:09 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 17:25:11 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: MSFT, qty: 1, side: buy, type: limit
+2026-11-17 17:25:12 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+2026-11-17 17:25:13 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: TSLA, qty: 1, side: buy, type: limit
+2026-11-17 17:25:14 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+2026-11-17 17:25:15 INFO  api.test.AlpacaNewOrderTestDDT - *****Submitting order with symbol: NVDA, qty: 1, side: buy, type: limit
+2026-11-17 17:25:16 INFO  api.test.AlpacaNewOrderTestDDT - *****Order submission response status: 200
+2026-11-17 17:25:17 INFO  api.test.AlpacaNewOrderTestDDT - *****Order status response: 200
+2026-11-17 17:25:17 INFO  api.test.AlpacaNewOrderTestDDT - *****Current OMS status: new
+2026-11-17 17:25:18 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 17:25:21 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: new
+2026-11-17 17:25:22 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 17:25:23 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Creating a fresh order for replacement. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 17:25:25 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Current order status before replacement attempt 1: new
+2026-11-17 17:25:25 INFO  api.test.AlpacaReplaceOrderTestDDT - *****Order replacement response status: 422
+2026-11-17 17:25:26 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=AAPL, qty=1, side=buy, type=limit, tif=day, limitPrice=12
+2026-11-17 17:25:27 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 17:25:28 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=MSFT, qty=1, side=buy, type=limit, tif=day, limitPrice=15
+2026-11-17 17:25:29 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=TSLA, qty=1, side=buy, type=limit, tif=gtc, limitPrice=18
+2026-11-17 17:25:30 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
+2026-11-17 17:25:31 INFO  api.test.AlpacaCancelOrderTestDDT - *****Creating a fresh order to cancel. symbol=NVDA, qty=1, side=buy, type=limit, tif=day, limitPrice=20
+2026-11-17 17:25:32 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order submit response status: 200
+2026-11-17 17:25:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Order cancel response status: 204
+2026-11-17 17:25:33 INFO  api.test.AlpacaCancelOrderTestDDT - *****Delete endpoint returned 204 No Content; cancellation is successful for Alpaca API.
